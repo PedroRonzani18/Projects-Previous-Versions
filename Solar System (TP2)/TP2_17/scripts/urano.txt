@@ -1,0 +1,7 @@
+Textura: imagens/2k_uranus.jpg
+DependsOnLight: 1
+NumberOfMoons: 3
+CoreRadius: 85
+RotationRadius: 14
+TranslationPeriod: 0
+RotationPeriod: 0.72

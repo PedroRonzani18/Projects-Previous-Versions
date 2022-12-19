@@ -1,0 +1,12 @@
+Textura: imagens/2k_neptune.jpg
+DependsOnLight: 1
+NumberOfMoons: 3
+CoreRadius: 77
+RotationRadius: 16.0
+TranslationPeriod: 0
+RotationPeriod: 0.67
+GlLightConst: -1
+MaterialAmbient: 0.8, 0.8, 0.8, 1
+MaterialDifuse: 0.8, 0.8, 0.8, 1
+MaterialEspecular: 0.8, 0.8, 0.8, 1
+MaterialShininess: 128

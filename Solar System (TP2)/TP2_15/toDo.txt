@@ -1,0 +1,7 @@
+1. objeto 3d texturizado
+2. planetas com materiais diferentes (tem um exemplo do coutinho q tallvez seja isso)
+3. textura de cabine de nave que deve acompanhar a camera
+
+
+** fonte de luz terra, marte, saturno com luz difusa, mas tem que ser percebida localmente ????
+    conferir o que ele quis dizer com ser percebido localmente

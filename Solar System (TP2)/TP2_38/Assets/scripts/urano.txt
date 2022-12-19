@@ -1,0 +1,12 @@
+Textura: Assets/imagens/2k_uranus.jpg
+DependsOnLight: 1
+NumberOfMoons: 3
+CoreRadius: 85
+RotationRadius: 14
+TranslationPeriod: 8000
+RotationPeriod: 0.72
+GlLightConst: -1
+MaterialAmbient: 0.7, 0.7, 0.7, 1
+MaterialDifuse: 0.7, 0.7, 0.7, 1
+MaterialEspecular: 0.7, 0.7, 0.7, 1
+MaterialShininess: 128

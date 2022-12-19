@@ -1,0 +1,12 @@
+Textura: imagens/2k_mars.jpg
+DependsOnLight: 1
+NumberOfMoons: 2
+CoreRadius: 34
+RotationRadius: 8
+TranslationPeriod: 0
+RotationPeriod: 1.03
+GlLightConst: 2
+MaterialAmbient: 1, 1, 1, 1
+MaterialDifuse: 1, 1, 1, 1
+MaterialEspecular: 1, 1, 1, 1
+MaterialShininess: 50

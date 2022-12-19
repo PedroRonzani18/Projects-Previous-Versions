@@ -1,0 +1,3 @@
+1. objeto 3d texturizado
+2. planetas com materiais diferentes (tem um exemplo do coutinho q tallvez seja isso)
+3. textura de cabine de nave que deve acompanhar a camera

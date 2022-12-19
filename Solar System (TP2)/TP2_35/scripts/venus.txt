@@ -1,0 +1,12 @@
+Textura: imagens/2k_venus_surface.jpg
+DependsOnLight: 1
+NumberOfMoons: 3
+CoreRadius: 60
+RotationRadius: 5.0
+TranslationPeriod: 800
+RotationPeriod: 6
+GlLightConst: -1
+MaterialAmbient: 0.2, 0.2, 0.2, 1
+MaterialDifuse: 0.2, 0.2, 0.2, 1
+MaterialEspecular: 0.2, 0.2, 0.2, 1
+MaterialShininess: 128

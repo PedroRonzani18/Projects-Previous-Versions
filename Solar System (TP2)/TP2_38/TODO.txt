@@ -1,0 +1,2 @@
+1. fazer parser que gera varios planetas a partir de um unico txt (sistema solar)
+2. deixar classe model mais organizada

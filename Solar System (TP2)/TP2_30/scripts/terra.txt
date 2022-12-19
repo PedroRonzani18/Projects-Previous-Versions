@@ -1,0 +1,12 @@
+Textura: imagens/2k_earth_daymap.jpg
+DependsOnLight: 1
+NumberOfMoons: 1
+CoreRadius: 64
+RotationRadius: 6.5
+TranslationPeriod: 0
+RotationPeriod: 0.99
+GlLightConst: 1
+MaterialAmbient: 0.25, 0.25, 0.25, 1
+MaterialDifuse: 0.1, 0.1, 0.4, 1 
+MaterialEspecular: 1, 1, 1, 1 
+MaterialShininess: 128

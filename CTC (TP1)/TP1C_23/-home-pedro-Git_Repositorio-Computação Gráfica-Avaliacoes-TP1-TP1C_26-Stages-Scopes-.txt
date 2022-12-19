@@ -1,0 +1,1 @@
+/home/pedro/Git_Repositorio/Computação Gráfica/Avaliacoes/TP1/TP1C_26/Stages/Scopes/Wave.cpp

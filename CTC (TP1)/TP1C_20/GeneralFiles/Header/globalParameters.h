@@ -1,0 +1,18 @@
+#ifndef _GLOBALPARAMETERS_H
+#define _GLOBALPARAMETERS_H
+
+#include <GL/freeglut.h>
+
+extern double aspectRatio;
+extern int keys[6];
+extern int sposition;
+extern int flag;
+extern int tempo;
+extern int cont;
+
+template<typename Base, typename T>
+extern inline bool instanceof(const T *ptr) {
+   return dynamic_cast<const Base*>(ptr) != nullptr;
+}
+
+#endif

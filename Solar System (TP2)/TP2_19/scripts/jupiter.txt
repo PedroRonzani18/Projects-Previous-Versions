@@ -1,0 +1,8 @@
+Textura: imagens/2k_jupiter.jpg
+DependsOnLight: 1
+NumberOfMoons: 3
+CoreRadius: 175
+RotationRadius: 10
+TranslationPeriod: 0
+RotationPeriod: 0.41
+GlLightConst: -1

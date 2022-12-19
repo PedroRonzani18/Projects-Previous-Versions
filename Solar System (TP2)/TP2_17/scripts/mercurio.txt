@@ -1,0 +1,7 @@
+Textura: imagens/2k_mercury.jpg
+DependsOnLight: 1
+NumberOfMoons: 0
+CoreRadius: 24
+RotationRadius: 4
+TranslationPeriod: 0
+RotationPeriod: 4

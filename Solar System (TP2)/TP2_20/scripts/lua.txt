@@ -1,0 +1,7 @@
+CoreRadius = 0.15;
+TranslationAngularSpeed = 0.5;
+RotationAngularSpeed = 50;
+MaterialAmbient: 1, 1, 1, 1
+MaterialDifuse: 1, 1, 1, 1
+MaterialEspecular: 1, 1, 1, 1
+MaterialShininess: 50

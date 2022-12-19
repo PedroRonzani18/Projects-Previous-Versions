@@ -1,0 +1,8 @@
+Textura: imagens/2k_stars_milky_way.jpg
+DependsOnLight: 0
+NumberOfMoons: 0
+CoreRadius: 6000
+RotationRadius: 0
+TranslationPeriod: 0
+RotationPeriod: 10
+GlLightConst: -1

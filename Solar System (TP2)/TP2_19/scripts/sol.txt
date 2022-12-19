@@ -1,0 +1,12 @@
+Textura: imagens/2k_sun.jpg
+DependsOnLight: 0
+NumberOfMoons: 0
+CoreRadius: 600
+RotationRadius: 0
+TranslationPeriod: 0
+RotationPeriod: 0
+GlLightConst: 0
+Alteravel: 1
+dInicial: 1
+mInicial: 0.2
+eInicial: 1
